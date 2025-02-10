@@ -1,0 +1,23 @@
+{
+    "professionals": [
+      {
+        "id": 1,
+        "name": "Rahul Sharma",
+        "rating": 5,
+        "category": "Electrician",
+        "reviews": 24,
+        "customerFeedback": "95% Satisfied Customers",
+        "phone": "9876543210"
+      },
+      {
+        "id": 2,
+        "name": "Rakesh Singh",
+        "rating": 5,
+        "category": "Carpenter",
+        "reviews": 18,
+        "customerFeedback": "92% Satisfied Customers",
+        "phone": "8765432109"
+      }
+    ]
+  }
+  
